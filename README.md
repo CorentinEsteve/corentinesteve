@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Corentin
 
-<!--
-**CorentinEsteve/corentinesteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer building clean, useful products end-to-end — **React/TypeScript + Node.js + Python**.  
+I like shipping fast, then making it **solid**: reliability, observability, and sharp UX.  
 
-Here are some ideas to get you started:
+These days I’m also integrating **AI/LLMs** (tool-calling, agentic workflows, transcription) with real-world constraints: **latency, cost, privacy** 🧠🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently: shipping SaaS features + pragmatic AI assistants (low-noise, high-value)
+- 🌱 Learning: agentic patterns, evals/monitoring, better product thinking
+- 🧩 I enjoy: turning messy data into dashboards that actually help people
+- ⚡ Fun fact: I’m addicted to “simplify first” — fewer moving parts = fewer bugs 😄
+
+📫 Reach me on LinkedIn: [Corentin Esteve](https://www.linkedin.com/in/corentin-esteve-82a754194/)
